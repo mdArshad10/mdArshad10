@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Job Portal**
 
-- 🌱 I’m currently learning **Redux Toolkit and RKT Query**
+- 🌱 I’m currently learning **Java and JDBC**
 
 - 📫 How to reach me **mdarshad246@gmail.com**
 
