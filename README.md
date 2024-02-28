@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Job Portal**
 
-- 🌱 I’m currently learning **Java and JDBC**
+- 🌱 I’m currently learning **Next.Js**
 
 - 📫 How to reach me **mdarshad246@gmail.com**
 
